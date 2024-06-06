@@ -1,1 +1,2 @@
-print("Hello, Git! 👋")
+def edit():
+  return "Hello, Git! 👋"
